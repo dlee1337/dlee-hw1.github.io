@@ -1,3 +1,3 @@
 # hw1
 
-# note: these images are not owned.
+note: images in the image directory are not owned.
