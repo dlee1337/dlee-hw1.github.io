@@ -1,0 +1,40 @@
+/* File: index.html 
+GUI Assignment: Creating My First Web Page 
+David Lee, david_lee2@student.uml.edu
+*/
+
+/*default case from w3c*/
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/*setting constraints for website in general - source: personal project*/
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+/*designating centering images - source: w3c*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*basic setup for a table - source: w3c*/
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+/*designating centering for tables - source: w3c*/
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+
